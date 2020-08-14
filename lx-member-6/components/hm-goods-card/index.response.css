@@ -1,0 +1,289 @@
+.hm-goods-card {
+  display: flex;
+  align-items: center;
+	justify-content: center;
+  flex-direction: column;
+  width: 750upx;
+  /* height: 1122.08upx; */
+}
+
+.box {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  /* margin-left: 13.64upx; */
+  border-radius: 38.96upx;
+  box-shadow: 0px 10px 30px rgba(209, 213, 223, 0.5);
+  background-color: #ffffff;
+  width: 720.78upx;
+	margin: 10upx auto;
+  /* height: 1044.16upx; */
+}
+
+.titleClass {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 62.34upx;
+  width: 598.05upx;
+  height: 38.96upx;
+}
+
+.title {
+  opacity: 1;
+  max-width: 539.61upx;
+  height: 38.96upx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 31.17upx;
+  font-weight: 400;
+}
+
+.titleimg {
+  width: 35.06upx;
+  height: 7.79upx;
+}
+
+.goods {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 62.34upx;
+  margin-left: 58.44upx;
+  height: 194.81upx;
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 29.22upx;
+  border-radius: 29.22upx;
+  background-color: #eeeff3;
+  width: 194.81upx;
+  height: 194.81upx;
+  overflow: hidden;
+}
+
+.pic {
+  width: 194.81upx;
+  height: 194.81upx;
+}
+
+.block {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 142.21upx;
+}
+
+.tradeName {
+  position: relative;
+  opacity: 1;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17upx;
+  font-weight: normal;
+}
+
+.describe {
+  position: relative;
+  opacity: 1;
+  margin-top: 7.79upx;
+  max-width: 194.81upx;
+  height: 38.96upx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17upx;
+  font-weight: normal;
+}
+
+.commodity {
+  position: relative;
+  opacity: 1;
+  margin-top: 17.53upx;
+  max-width: 194.81upx;
+  height: 38.96upx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #858997;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17upx;
+  font-weight: normal;
+}
+
+.row {
+  position: relative;
+  margin-top: 58.44upx;
+  background-color: #eeeff3;
+  width: 720.78upx;
+  height: 1.95upx;
+}
+
+.row2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 58.44upx;
+  margin-left: 58.44upx;
+  height: 194.81upx;
+}
+
+.group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 29.22upx;
+  border-radius: 29.22upx;
+  background-color: #eeeff3;
+  width: 194.81upx;
+  height: 194.81upx;
+  overflow: hidden;
+}
+
+.img {
+  width: 194.81upx;
+  height: 194.81upx;
+}
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 142.21upx;
+}
+
+.secondName {
+  position: relative;
+  opacity: 1;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17upx;
+  font-weight: normal;
+}
+
+.secondDescribe {
+  position: relative;
+  opacity: 1;
+  margin-top: 7.79upx;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-family: MicrosoftYaHei, Microsoft YaHei;
+  font-size: 31.17upx;
+  font-weight: normal;
+}
+
+.secondcommodity {
+  position: relative;
+  opacity: 1;
+  margin-top: 17.53upx;
+  max-width: 132.47upx;
+  height: 38.96upx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 31.17upx;
+  font-weight: 400;
+}
+
+.submain {
+  position: relative;
+  margin-top: 58.44upx;
+  background-color: #eeeff3;
+  width: 720.78upx;
+  height: 1.95upx;
+}
+
+.main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 58.44upx;
+  margin-left: 58.44upx;
+  height: 194.81upx;
+}
+
+.outer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 29.22upx;
+  border-radius: 29.22upx;
+  background-color: #eeeff3;
+  width: 194.81upx;
+  height: 194.81upx;
+  overflow: hidden;
+}
+
+.smallItem {
+  width: 194.81upx;
+  height: 194.81upx;
+}
+
+.wrap_2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 142.21upx;
+}
+
+.thirdName {
+  position: relative;
+  opacity: 1;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 31.17upx;
+  font-weight: 400;
+}
+
+.thirdDescribe {
+  position: relative;
+  opacity: 1;
+  margin-top: 7.79upx;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 31.17upx;
+  font-weight: 400;
+}
+
+.thirdcommodity {
+  position: relative;
+  opacity: 1;
+  margin-top: 17.53upx;
+  max-width: 101.3upx;
+  height: 38.96upx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38.96upx;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 31.17upx;
+  font-weight: 400;
+}
